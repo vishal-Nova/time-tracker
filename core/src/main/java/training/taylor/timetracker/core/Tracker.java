@@ -7,7 +7,7 @@ import training.taylor.timetracker.core.dao.TimeEntry;
 import java.util.List;
 
 @Component
-public class Tracker {
+public cass Tracker {
     @Autowired
     private List<TimeEntry> entries;
 
